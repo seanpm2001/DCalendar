@@ -1,0 +1,1 @@
+🗓️📅️📆️ DCalendar (Digital Calendar) is a web calendar that uses an implementation of the DCAL format (but supports other calendar formats as well) it is written in D, and part of the DMail family of web productivity software.
