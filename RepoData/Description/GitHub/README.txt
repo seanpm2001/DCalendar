@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🗓️📅️📆️ DCalendar (Digital Calendar) is a web calendar that uses an implementation of the DCAL format (but supports other calendar formats as well) it is written in D, and part of the DMail family of web productivity software.
